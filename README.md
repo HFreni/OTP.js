@@ -2,6 +2,13 @@
 # OTP.js
 OTP.js is a node.js library for interfacing with Object Transform Protocol (ESTA E1.59). This is an open source library, developed by [Infinitus Lux, LLC](https://www.infinituslux.com/), in order to allow javascript projects, such as our internal tooling, to use OTP.
 
+### Coordinate System
+| **Space** | **Origin** | **Viewpoint** |
+| --------- | ---------- | ------------- |
+| Proscenium Theatre | Downstage Center, Stage Level | Auditorium Center|
+| Arena | Center of Arena Floor | Operating Position |
+| TV Studio | Center of Studio Floor | Camera 1 Position |
+
 ### Important Defenitions To Understand OTP
 - Octet: an 8 bit byte.
 - Point: The smallest, indivisible component having properties of motion. This may be the center of a complex Object, or merely one of many Points on it.
