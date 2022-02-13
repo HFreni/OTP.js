@@ -1,0 +1,19 @@
+{
+  "name": "otp.js",
+  "version": "1.0.0",
+  "description": "A Node.js Library for interfacing with Object Transform Protocol (OTP).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HFreni/OTP.js.git"
+  },
+  "author": "Infinitus Lux, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HFreni/OTP.js/issues"
+  },
+  "homepage": "https://github.com/HFreni/OTP.js#readme"
+}
