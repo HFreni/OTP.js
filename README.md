@@ -4,3 +4,5 @@ OTP.js is a node.js library for interfacing with Object Transform Protocol (ESTA
 
 ### License
 OTP.js is licensed under the MIT license, this means that you are free to do with it as you please. I'd love to see what kind of cool stuff folks come up with.
+
+&copy; Infinitus Lux, LLC 2022
