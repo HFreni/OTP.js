@@ -1,10 +1,8 @@
 /**
- * Summary. index.ts is the main class for the OTP.js project.
- *
- * Description. (use period)
+ * index.ts is the main file for the OTP.js project.
  *
  * @link   ttps://github.com/HFreni/OTP.js/src/index.ts
- * @file   This file is the primary class for the OTP.js project.
+ * @file   Is the main file for the OTP.js project.
  * @author Harrison Freni.
  * @since  1.0.0
  */
