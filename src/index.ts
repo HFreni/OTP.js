@@ -31,7 +31,12 @@
 
 // Transform Message:
 // Octets, Field Size, Field Name, Decription + Content.
-
+// [OTP LAYER, Octets 0-78]
+// 79-80, 2, Vector, Identifies Transform Data, VECTOR_OTP_POINT
+// 81-82, Length, Length of PDU.
+// 83, 1, System Number, Unique Within Network; Defines System
+// 84-91, 8, Timestamp, Microseconds since Time Origin
+// 92, 1, Options, Bit 7 = Full Point Set.
 
 // Advertisement Message
 // Octets, Field Size, Field Name, Decription + Content.
