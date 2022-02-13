@@ -1,3 +1,14 @@
+/**
+ * Summary. index.ts is the main class for the OTP.js project.
+ *
+ * Description. (use period)
+ *
+ * @link   ttps://github.com/HFreni/OTP.js/src/index.ts
+ * @file   This file is the primary class for the OTP.js project.
+ * @author Harrison Freni.
+ * @since  1.0.0
+ */
+
 // OTP Structure Info:
 // PDU (Protocol Data Unit) cointains 3 segments:
 // 1. Vector Field, 2 Octets; A key that describes the format
